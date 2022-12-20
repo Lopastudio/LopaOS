@@ -58,7 +58,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -141,7 +140,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Patrik - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Patrik - [@Lopatka#9897](https://discord.com) - info@lopastudio.sk
 
 
 
