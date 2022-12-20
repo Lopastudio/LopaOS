@@ -1,0 +1,11 @@
+VERSION 1.4
+1. Added Calculator
+2. Numbers of commands are now command names :-)
+3. Loading bug fixed
+
+
+ENJOY!!!
+
+[C] LopaOS 1.4 - 17.9.2021
+[C] Lopastudio 2021
+[C] Patrik Nagy 2021
