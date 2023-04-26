@@ -13,7 +13,7 @@
 [![MIT License][license-shield]][license-url]
 
 
-#### This project is here to be archived as my First Ever Project so dont judge the idea
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -24,6 +24,7 @@
   <h3 align="center">LopaOS</h3>
 
   <p align="center">
+    This project is here to be archived as my First Ever Project so dont judge the idea.
     My "operating system" built with Python and maybe in c# in future.
     <br />
     <a href="https://github.com/Lopastudio/LopaOS/wiki/"><strong>Explore the docs »</strong></a>
